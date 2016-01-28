@@ -1,6 +1,8 @@
 Demo border router
 ==================
 
+[![Gitter](https://badges.gitter.im/gitterHQ/gitter.svg)](https://gitter.im/Alidron/talk)
+
 This is the border router used in the FOSDEM talk.
 
 How to use
