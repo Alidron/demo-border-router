@@ -21,7 +21,7 @@ This will launch the bridge between pure ZeroMQ and Alidron ISAC.
 License and contribution policy
 ===============================
 
-This project is licensed under LGPLv3.
+This project is licensed under MPLv2.
 
 The border router binary tunslip6 comes from Contiki OS project.
 
